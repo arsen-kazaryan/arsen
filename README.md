@@ -8,14 +8,12 @@
 ###  Мой стек технологий:
 HTML5
 
-CSS3]
+CSS3
 
 JavaScript
 
----
+React
 
- Мои проекты (Портфолио):
- * https://arsen-kazaryan.github.io/movie-website/ 
     
 
 ---
