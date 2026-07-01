@@ -1,68 +1,71 @@
-# 👋 Hi, I'm Arsen
+# Hi, I'm Arsen 👋
 
-### Junior Frontend Developer
+Frontend Developer from Armenia.
 
-I'm a Junior Frontend Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into real products, writing clean and maintainable code, and continuously improving my skills.
-
----
-
-## 🚀 About Me
-
-* 💻 Focused on Frontend Development
-* 🌱 Currently learning advanced React and TypeScript
-* 🎯 Looking for a Frontend Internship or Junior Frontend Developer position
-* 📚 Constantly improving through personal projects and practical experience
+I build responsive web applications with React and modern frontend technologies. My main focus is component-based architecture, effective state management, and writing clean, maintainable code.
 
 ---
 
 ## 🛠 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,git,github" />
+### Languages & Frontend
+- JavaScript, TypeScript
+- HTML5, CSS3 / SCSS
+- React, React Router
+- Zustand, Axios
+
+### Tools
+- Git, GitHub
+- Vite
+- Figma
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,git,github" />
 </p>
 
-**Libraries & Tools**
+---
 
-* React Router
-* Zustand
-* Axios
+## 📂 Featured Projects
+
+### 🚀 Job Tracker
+A web application for managing and tracking the job search process.
+
+**Key Features:**
+- Full CRUD operations for job applications
+- Application status tracking & dashboard statistics
+- Dynamic search and filtering of vacancies
+- Local data persistence
+
+**Built with:** React • JavaScript • Zustand • React Router • Axios • Vite
+
+🔗 [Live Demo](https://job-tracker-three-gilt.vercel.app)
 
 ---
 
-## 📂 Featured Project
+### 🌐 Portfolio Website
+Personal portfolio showcasing my projects and frontend skills.
 
-### 📌 Job Tracker
+**Key Features:**
+- Fully responsive layout (Mobile First approach)
+- Component-based architecture
+- Clean and modern UI
 
-A web application for managing job applications.
+**Built with:** React • CSS Modules • Vite
 
-### Features
-
-* Create, edit and delete vacancies
-* Change application status
-* Search and filter jobs
-* Statistics dashboard
-* Local data persistence
-
-**Tech Stack:** React • Zustand • React Router • Axios • CSS • Vite
-
-> More projects are available in my repositories.
+🔗 [Live Demo](https://portfolio-two-sage-13.vercel.app)
 
 ---
 
-## 📖 Currently Learning
+## 📚 Currently Learning
 
-* TypeScript
-* Advanced React Patterns
-* Frontend Architecture
-* Clean Code
-
----
-
-## 📫 Contact Me
-
-* Telegram: **@ArsenK11**
-* Email: **[arsenk001@mail.ru](mailto:arsenk001@mail.ru)**
+- Advanced TypeScript (Generics, Utility Types, Type Narrowing)
+- Next.js & Modern Web Practices
+- Improving English for technical communication
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Contact
+
+* **Telegram:** [@ArsenK11](https://t.me/ArsenK11)
+* **Email:** arsenk001@mail.ru
+* **Portfolio:** [portfolio-two-sage-13.vercel.app](https://portfolio-two-sage-13.vercel.app)
